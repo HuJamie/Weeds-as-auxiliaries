@@ -1,0 +1,17 @@
+sample	code	weed	type	JNC	NP	JNC.p	NP.p
+1	2	Lamium_purpureum	conventional	8	1	0.47	0.06
+2	2	Matricaria_sp	conventional	1	0	0.06	0
+3	2	Papaver_rhoeas	conventional	1	1	0.06	0.06
+4	2	Poa_annua	conventional	0	0	0	0
+5	2	Poa_trivialis	conventional	0	0	0	0
+6	2	Trifolium_repens	conventional	0	1	0	0.06
+7	2	Veronica_persica	conventional	0	1	0	0.06
+8	2	Vicia_sativa	conventional	3	3	0.18	0.18
+9	2	Lamium_purpureum	organic	0	1	0	0.07
+10	2	Matricaria_sp	organic	0	0	0	0
+11	2	Papaver_rhoeas	organic	0	0	0	0
+12	2	Poa_annua	organic	0	0	0	0
+13	2	Poa_trivialis	organic	0	0	0	0
+14	2	Trifolium_repens	organic	0	0	0	0
+15	2	Veronica_persica	organic	1	1	0.07	0.07
+16	2	Vicia_sativa	organic	0	0	0	0
